@@ -11,7 +11,6 @@ public class Gugudan {
 		
 		for(int i = 1; i < 10; i++) {
 			System.out.println(dan + " * " + i + " = " + dan*i);
-			System.out.println();
 		}
 		
 		
